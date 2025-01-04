@@ -13,3 +13,7 @@ OR
 `. ./nimbus_devops.sh start`
 
 To shut down, run the same command withour the `start` parameter.
+
+## 02 - Containerization
+
+Docker containerization of a flask and two django apps (workshop1 connects to a Postgres database)
