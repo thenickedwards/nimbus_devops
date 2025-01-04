@@ -170,3 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 app/helloapp/migrations
+
+# .DS_Store
+.DS_Store
