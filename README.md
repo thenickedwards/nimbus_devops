@@ -17,3 +17,7 @@ To shut down, run the same command withour the `start` parameter.
 ## 02 - Containerization
 
 Docker containerization of a flask and two django apps (workshop1 connects to a Postgres database)
+
+## 03 - AWS (Amazon Web Services)
+
+Deployed containerized app to EC2 instance via ECR (Amazon Elastic Container Registry)

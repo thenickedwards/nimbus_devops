@@ -21,7 +21,7 @@ _virtual servers in the cloud_
 - [Elastic IP for EC2](3.221.216.140)
 - [IAM Role for EC2](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/roles/details/django_docker_aws?section=permissions)
 - [Security Group for EC2](https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#SecurityGroup:group-id=sg-0115e6d31d0672aa0)
-- Connect to EC2 via SSH
+- Connect to EC2 via SSH and key
 
   `ssh -i nucamp-private-key.pem ubuntu@3.221.216.140`
 
@@ -32,4 +32,9 @@ _virtual servers in the cloud_
 _Currently disabled to save on costs._
 
 - [GitHub Repo for Django App](https://github.com/thenickedwards/django_docker_aws)
-- [Repository in Amazon Elastic Container Registry (ECR) URI:](https://us-east-1.console.aws.amazon.com/ecr/private-registry/repositories?region=us-east-1) 503561410869.dkr.ecr.us-east-1.amazonaws.com/django_docker_aws
+  DESC: Deploying Docker Container with Django on EC2 Instance (test)
+
+- [django_docker_aws Repository in Amazon Elastic Container Registry (ECR) URI:](https://us-east-1.console.aws.amazon.com/ecr/repositories/private/503561410869/django_docker_aws?region=us-east-1) 503561410869.dkr.ecr.us-east-1.amazonaws.com/django_docker_aws
+
+- [workshop2 Repository in Amazon Elastic Container Registry (ECR) URI:](https://us-east-1.console.aws.amazon.com/ecr/repositories/private/503561410869/workshop2?region=us-east-1) 503561410869.dkr.ecr.us-east-1.amazonaws.com/workshop2
+- [RDS Postgres Endpoint:](https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#database:id=nctutorials;is-cluster=false) nctutorials.cvggi80cs468.us-east-1.rds.amazonaws.com
