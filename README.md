@@ -21,3 +21,11 @@ Docker containerization of a flask and two django apps (workshop1 connects to a 
 ## 03 - AWS (Amazon Web Services)
 
 Deployed containerized app to EC2 instance via ECR (Amazon Elastic Container Registry)
+
+## 04 CI/CD Pipelines
+
+Continuous Integration & Continuous Delivery/Deployment
+
+## 05 Pytest & Unittest
+
+## 06 Google Cloud Platform
