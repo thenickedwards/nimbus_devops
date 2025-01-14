@@ -5,11 +5,12 @@ def sum(x, y):
     return result
 
 class SampleTest(unittest.TestCase):
-    # def setUp(self):
-    #     print("\nRun setUp")
+    def setUp(self):
+        print("\nRun setUp")
 
-    # def tearDown(self):
-    #     print("Run tearDown")
+    def tearDown(self):
+        print("Run tearDown")
+    
     # @unittest.expectedFailure
     # def test_sum_pos_int(self):
     #     self.assertEqual(sum(4, 6), 0)
