@@ -21,6 +21,8 @@ Docker containerization of a flask and two django apps (workshop1 connects to a 
 ## 03 - AWS (Amazon Web Services)
 
 Deployed containerized app to EC2 instance via ECR (Amazon Elastic Container Registry)
+Technologies: AWS Lambda, EC2, Relational Database Service (RDS), Elastic Container Registry (ECR),
+AWS Identity and Access Management (AWS IAM)
 
 ## 04 CI/CD Pipelines
 
