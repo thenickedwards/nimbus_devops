@@ -31,3 +31,6 @@ Continuous Integration & Continuous Delivery/Deployment
 ## 05 Pytest & Unittest
 
 ## 06 Google Cloud Platform
+
+Deployed containerized app to Cloud Run instance via GCR (Google Container Registry)
+Technologies: Cloud Functions, Google Container Registry (GCR), Artifact Registry, Cloud Run, Cloud Build, Cloud SQL, Secret Manager
