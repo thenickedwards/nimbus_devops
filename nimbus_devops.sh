@@ -44,4 +44,4 @@ else
     echo "Way to go you beautiful and strong genius, you 🧑‍💻"
 fi
 
-echo "༼ つ ◕◕ ༽つ SENDING THE GOODEST OF VIBES ༼ つ ◕◕ ༽つ\n\n\n"
+echo "\n༼ つ ◕◕ ༽つ SENDING THE GOODEST OF VIBES ༼ つ ◕◕ ༽つ\n\n"
