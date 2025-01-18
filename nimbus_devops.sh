@@ -19,7 +19,8 @@ if [ "$action" = "start" ]; then
     # source /Users/thenickedwards/.virtualenvs/nimbus_devops/bin/activate
     source "$VENV_PATH"
     echo "Virtual environment $VENV_NAME activated."
-    
+    echo "Happy coding you beautiful and strong genius, you 🧑‍💻"
+
 # Start up GCP environment
 elif [ "$action" = "gcp" ]; then
     echo "Setting environment variables for Google Cloud Platform..."
@@ -40,4 +41,7 @@ else
     echo "Deactivating $VENV_NAME virtual environment..."
     deactivate
     echo "Virtual environment $VENV_NAME deactivated."
+    echo "Way to go you beautiful and strong genius, you 🧑‍💻"
 fi
+
+echo "༼ つ ◕◕ ༽つ SENDING THE GOODEST OF VIBES ༼ つ ◕◕ ༽つ\n\n\n"
