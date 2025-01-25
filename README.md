@@ -21,8 +21,9 @@ Docker containerization of a flask and two django apps (workshop1 connects to a 
 ## 03 - AWS (Amazon Web Services)
 
 Deployed containerized app to EC2 instance via ECR (Amazon Elastic Container Registry)
-Technologies: AWS Lambda, EC2, Relational Database Service (RDS), Elastic Container Registry (ECR),
-AWS Identity and Access Management (AWS IAM)
+
+_Technologies: AWS Lambda, EC2, Relational Database Service (RDS), Elastic Container Registry (ECR),
+AWS Identity and Access Management (AWS IAM)_
 
 ## 04 CI/CD Pipelines
 
@@ -33,4 +34,13 @@ Continuous Integration & Continuous Delivery/Deployment
 ## 06 Google Cloud Platform
 
 Deployed containerized app to Cloud Run instance via GCR (Google Container Registry)
-Technologies: Cloud Functions, Google Container Registry (GCR), Artifact Registry, Cloud Run, Cloud Build, Cloud SQL, Secret Manager
+
+_Technologies: Cloud Functions, Google Container Registry (GCR), Artifact Registry, Cloud Run, Cloud Build, Cloud SQL, Secret Manager_
+
+## 07 Package Management
+
+## 08 Kubernetes and Container Orchestration
+
+## 09 Microsoft Azure
+
+_Technologies: Azure Functions, Azure Kubernetes Service (AKS), Azure Container Registry, Azure Database for PostgreSQL flexible server, Kubectl, minikube, Kompose_
