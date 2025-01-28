@@ -18,9 +18,9 @@ _Currently disabled to save on costs._
 - [Kubernetes Cluser](https://portal.azure.com/#@nickedwardsdevgmail.onmicrosoft.com/resource/subscriptions/fc4f50fd-3450-453a-9915-bb40473741ba/resourceGroups/django-apps/providers/Microsoft.ContainerService/managedClusters/djangocluster/overview)
 - [Kubernetes Service Workload](https://portal.azure.com/#view/Microsoft_Azure_ContainerService/AksK8ResourceMenuBlade/~/overview-Deployment/aksClusterId/%2Fsubscriptions%2Ffc4f50fd-3450-453a-9915-bb40473741ba%2FresourceGroups%2Fdjango-apps%2Fproviders%2FMicrosoft.ContainerService%2FmanagedClusters%2Fdjangocluster/resource~/%7B%22kind%22%3A%22Deployment%22%2C%22metadata%22%3A%7B%22name%22%3A%22primary%22%2C%22namespace%22%3A%22default%22%2C%22uid%22%3A%22b2c8f3ba-0e88-481c-bba1-a8eb2c4a5122%22%7D%2C%22spec%22%3A%7B%22selector%22%3A%7B%22matchLabels%22%3A%7B%22app%22%3A%22primary%22%7D%7D%7D%7D/preloadK8sObjectsO11yContext~/%7B%22useUpgradedTier%22%3Afalse%2C%22isK8sObjectsOverviewO11yEnabled%22%3Atrue%7D)
 
-\*\*[Another Deployed Containerized Django App with Azure and integrated Postgres Database (workshop4)](http://20.3.4.15:8000/)
+\*\*[Another Deployed Containerized Django App with Azure and integrated Postgres Database (workshop4)](http://172.179.21.217:8000/)
 
-<!-- (FKA http://4.246.9.104:8000/)** -->
+<!-- (FKA http://4.246.9.104:8000/, http://20.3.4.15:8000/)** -->
 
 _Currently disabled to save on costs._
 
