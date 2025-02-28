@@ -5,12 +5,11 @@
 **‹⚡️› [HelloTimeHandler](https://portal.azure.com/#@nickedwardsdevgmail.onmicrosoft.com/resource/subscriptions/fc4f50fd-3450-453a-9915-bb40473741ba/resourceGroups/django-apps/providers/Microsoft.Web/sites/HelloTimeHandler/appServices)**
 
 - HttpTriggerHandler trigger URL for HelloTimeHandler: [https://hellotimehandler.azurewebsites.net/api/HttpTriggerHandler?code=0xupUjXpsg8tbICAYI6KwvRzR_DNi3WRxwWwhW7BU0acAzFuEb0ohw%3D%3D](https://hellotimehandler.azurewebsites.net/api/HttpTriggerHandler?code=0xupUjXpsg8tbICAYI6KwvRzR_DNi3WRxwWwhW7BU0acAzFuEb0ohw%3D%3D)
-  <!-- _Currently disabled to save on costs._ -->
+  _Currently disabled to save on costs._
 
 ## 09_02 & 09_03 Deployments via Azure Kubernetes Service (AKS) and Azure Container Registry (ACR)
 
 **[Deployed Containerized Django App with Azure (hello_django)](https://4.149.185.38:8000/)**
-
 _Currently disabled to save on costs._
 
 - [Container Registry - nedjangoregistry](https://portal.azure.com/#@nickedwardsdevgmail.onmicrosoft.com/resource/subscriptions/fc4f50fd-3450-453a-9915-bb40473741ba/resourceGroups/django-apps/providers/Microsoft.ContainerRegistry/registries/nedjangoregistry/overview)
