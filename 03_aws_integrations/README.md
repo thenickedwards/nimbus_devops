@@ -16,6 +16,8 @@
 
 _virtual servers in the cloud_
 
+_Currently disabled to save on costs._
+
 **[EC2 Instance ID: i-0a783d17b15157d40 (EC2 test)](https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0a783d17b15157d40)**
 
 - [Elastic IP for EC2](3.221.216.140)
@@ -24,7 +26,6 @@ _virtual servers in the cloud_
 - Connect to EC2 via SSH and key
 
   `ssh -i nucamp-private-key.pem ubuntu@3.221.216.140`
-
   - CLI prompt: `ubuntu@ip-172-31-20-212:~$ `
   - i.e. AMI@elastic-ip
 
