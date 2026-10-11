@@ -2,9 +2,9 @@
 # Note: the commands to start below will source script in current shell (instead of executing in a subshell), 
 # this allows environment changes (like activating the virtual environment) to persist
 
-# >> source ./nimbus_devops.sh start
+# >> source ./start-nimbus_devops.sh start
 # OR      
-# >> . ./nimbus_devops.sh start
+# >> . ./start-nimbus_devops.sh start
     
 
 # Load environment variables
