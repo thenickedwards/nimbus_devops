@@ -8,9 +8,9 @@ This is a repo where I have committed to practicing Python while integrating wit
 
 To spin up the environment a .env file with the name of your virtual environment and the path to activate it. Then simply run:
 
-`source ./nimbus_devops.sh start`
+`source ./start-nimbus_devops.sh start`
 OR
-`. ./nimbus_devops.sh start`
+`. ./start-nimbus_devops.sh start`
 
 To shut down, run the same command withour the `start` parameter.
 
